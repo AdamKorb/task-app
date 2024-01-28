@@ -1,0 +1,36 @@
+.one-task {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 5px solid #91C46C;
+    background-color: #287D7D;
+    width: 500px;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+.one-task h4 {
+    padding-left: 20px;
+}
+
+.one-task button {
+    background-color:  #287D7D;
+    color: #F2F2F2;
+    font-size: 20px;
+    border: none;
+    padding-right: 20px;
+    cursor: pointer;
+}
+
+.main-button {
+    background-color: #91C46C;
+    color: #1C344C;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    display: block;
+    margin: 0px auto;
+}
+
+
+
